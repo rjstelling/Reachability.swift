@@ -133,3 +133,7 @@ If you use **Reachability.swift**, please let me know about your app and I'll pu
 Cheers,
 Ash
 
+
+---
+
+[Contact](https://agent-mailbox.richardstelling.com/#contact)
